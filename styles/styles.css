@@ -10,8 +10,8 @@
 
 body {
 
-  width: 1024px;
-  background-color:antiquewhite; /* Sets the windows background colour */
+  width: auto;
+  background-color:aliceblue; /* Sets the windows background colour */
   min-height: 100vh;
 
 }
