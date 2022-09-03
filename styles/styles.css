@@ -11,7 +11,7 @@
 body {
 
   width: 1024px;
-  background-color: blueviolet;
+  background-color:antiquewhite; /* Sets the windows background colour */
   min-height: 100vh;
 
 }
@@ -19,9 +19,9 @@ body {
 /* Style the header */
 
 .header {
-
-    background-color:green;
-
+   
+    max-width: 100%;
+    height: auto;
     text-align: center;
 
     padding: 20px;
