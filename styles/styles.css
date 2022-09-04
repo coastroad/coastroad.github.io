@@ -17,6 +17,11 @@
     color:white;
 }
 
+/* changes image opacity */
+#imageOpacity {
+    opacity: 0.5;
+}
+
 /*link hover styling */
 a:hover, li:hover {
 
