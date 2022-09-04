@@ -6,9 +6,15 @@
 
 }
 
+/* black centered text */
 #para1 {
     text-align: center;
     color:black;
+}
+
+/*white text */
+#white {
+    color:white;
 }
 
 /*link hover styling */
