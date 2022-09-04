@@ -148,8 +148,6 @@ img {
     padding: 0.5%;
     margin-top: 2%;
 
-    background-color: yellow;
-
 }
 
 /* Clear floats after the columns */
@@ -166,7 +164,7 @@ img {
 
 .footer {
 
-    background-color: yellow;
+    background-color:black;
 
     text-align: center;
 
