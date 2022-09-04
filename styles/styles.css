@@ -9,6 +9,7 @@
 /*link hover styling */
 a:hover, li:hover {
     color:grey;
+    background-color: brown;
 }
 
 a {
