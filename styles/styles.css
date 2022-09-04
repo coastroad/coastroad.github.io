@@ -114,9 +114,9 @@ img {
 
 .content{
     float: left;
-    max-width: 80%;
     margin: auto;
-    padding: 15px;
+    max-width: 80%;
+    height: auto;
     background-color: crimson;
 
 }
