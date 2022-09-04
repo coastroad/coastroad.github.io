@@ -112,6 +112,14 @@ img {
 
 }
 
+.content{
+    float: left;
+    width: auto;
+    padding: 15px;
+    background-color: crimson;
+
+}
+
 /* Create two equal columns that float next to each other */
 
 .column {
