@@ -70,7 +70,7 @@ img {
 
     overflow: hidden;
     max-width: 80vw;
-    background-color:aliceblue;
+    background-color:blue;
 
 }
 
@@ -83,6 +83,7 @@ img {
     display: block;
 
     color: black;
+    
 
     text-align: center;
 
