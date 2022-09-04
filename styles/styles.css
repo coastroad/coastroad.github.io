@@ -81,6 +81,7 @@ body {
 }
 
 .reservation {
+    margin: 0.5%;
     position:relative;
     text-align:center;
     color:white;
