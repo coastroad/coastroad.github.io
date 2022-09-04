@@ -72,11 +72,12 @@ body {
 /* sets banner position */
 .banner {
     position:relative;
+    
 }
 
 /* sets main sizes */
 .main {
-    max-width: 60%;
+    max-width: 80vw;
     height: auto;
     margin:auto;
 }
