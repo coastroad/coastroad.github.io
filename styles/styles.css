@@ -8,7 +8,13 @@
 
 h1{
     color:white;
-    font-size: 48px;
+    font-size: 8vw;
+}
+
+h2{
+    color:white;
+    font-size: 2vw;
+
 }
 
 /* Set the size of the body */
