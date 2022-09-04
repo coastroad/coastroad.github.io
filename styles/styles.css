@@ -69,7 +69,8 @@ img {
 .topnav {
 
     overflow: hidden;
-    width: 80vw;
+    margin:auto;
+    max-width: 80%;
     background-color:blue;
 
 }
