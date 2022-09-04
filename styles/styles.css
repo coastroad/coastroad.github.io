@@ -53,6 +53,7 @@ body {
 
 /* Sets the size of images in gallery */
 .gallery {
+    float: left;
     width: 50%;
     height:auto;
 
