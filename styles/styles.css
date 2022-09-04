@@ -6,6 +6,12 @@
 
 }
 
+/*link hover styling */
+a:hover {
+    color:grey;
+}
+
+
 /* h1 styling */
 h1{
     color:white;
@@ -54,6 +60,7 @@ body {
     max-width: 80%;
     height: auto;
     margin:auto;
+    background-color: blue;
 }
 
 /*sets images width and height */
@@ -92,6 +99,7 @@ img {
     display: block;
 
     color: black;
+    
     
 
     text-align: center;
