@@ -69,8 +69,8 @@ img {
 .topnav {
 
     overflow: hidden;
-
-    background-color: black;
+    max-width: 80vw;
+    background-color:aliceblue;
 
 }
 
@@ -82,7 +82,7 @@ img {
 
     display: block;
 
-    color: white;
+    color: black;
 
     text-align: center;
 
