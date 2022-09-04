@@ -11,6 +11,9 @@ a:hover, li:hover {
     color:grey;
 }
 
+a {
+    transition: color .5s;
+}
 
 /* h1 styling */
 h1{
