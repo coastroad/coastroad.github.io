@@ -28,8 +28,7 @@ h2{
 /* Set the size of the body */
 body {
 
-  width: 80%;
-  max-width: 80vw;
+  max-width: 100vw;
   background-color:aliceblue; /* Sets the windows background colour */
   min-height: 100vh;
 
