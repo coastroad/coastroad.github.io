@@ -10,15 +10,19 @@
 h1{
     color:white;
     font-size: 4vw;
-    text-shadow: 2px 2px 5px black;
+    
 }
 
 /* h2 styling */
 h2{
     color:white;
     font-size: 2vw;
-    text-shadow: 2px 2px 5px black;
+    
 
+}
+
+.shadow {
+    text-shadow: 2px 2px 5px black;
 }
 
 /* Set the size of the body */
