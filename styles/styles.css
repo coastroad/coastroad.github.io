@@ -20,7 +20,6 @@ h2{
 
 /*h3 styling */
 h3{
-    top:10%;
     color:white;
 }
 
@@ -50,6 +49,12 @@ body {
     position:relative;
 }
 
+/* sets main sizes */
+.main {
+    max-width: 80%;
+    height: auto;
+    margin:auto;
+}
 
 /*sets images width and height */
 img {
