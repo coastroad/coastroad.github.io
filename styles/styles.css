@@ -75,6 +75,12 @@ body {
     transform: translate(-50%, -50%);
 }
 
+.reservation {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
 /* sets banner position */
 .banner {
     position:relative;
