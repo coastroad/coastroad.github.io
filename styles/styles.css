@@ -76,8 +76,7 @@ body {
 }
 
 .reservation {
-    position: absolute;
-    left:50%;  
+    text-align:center;
 }
 
 /* sets banner position */
