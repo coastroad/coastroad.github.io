@@ -6,19 +6,22 @@
 
 }
 
+/* h1 styling */
 h1{
     color:white;
     font-size: 4vw;
+    text-shadow: 2px 2px;
 }
 
+/* h2 styling */
 h2{
     color:white;
     font-size: 2vw;
+    text-shadow: 2px 2px;
 
 }
 
 /* Set the size of the body */
-
 body {
 
   width: auto;
@@ -41,7 +44,7 @@ body {
 }
 
 
-
+/*sets images width and height */
 img {
     width: 100%;
     height: auto;
