@@ -20,6 +20,7 @@ h2{
 
 /*h3 styling */
 h3{
+    top:20%;
     color:white;
 }
 
@@ -39,7 +40,7 @@ body {
 /* Center text on banner image */
 .center {
     position:absolute;
-    top: 25%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
