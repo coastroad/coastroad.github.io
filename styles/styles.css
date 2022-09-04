@@ -8,12 +8,12 @@
 
 /*link hover styling */
 a:hover, li:hover {
-    color:grey;
-    background-color: brown;
+
+    background-color: #bfb4b4;
 }
 
 a {
-    transition: color .5s;
+    transition: background-color .5s;
 }
 
 /* h1 styling */
