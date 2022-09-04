@@ -118,7 +118,7 @@ img {
 .content{
     float: left;
     margin: auto;
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
     background-color: crimson;
 
