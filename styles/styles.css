@@ -31,8 +31,9 @@ h2{
 /*h3 styling */
 h3{
     color:white;
+    position:absolute;
     left:50%;
-    
+
 }
 
 .shadow {
