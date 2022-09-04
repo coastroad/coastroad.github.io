@@ -51,6 +51,13 @@ body {
 
 }
 
+/* Sets the size of images in gallery */
+.gallery {
+    width: 50%;
+    height:auto;
+
+}
+
 /* Center text on banner image */
 .center {
     position:absolute;
