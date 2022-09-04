@@ -73,7 +73,7 @@ h3{
 /*responsive formatting for google form */
 .form-responsive{
     overflow:hidden;
-    padding-bottom:40%;
+    padding-bottom:60%;
     position: relative;
     height: 0;
 }
