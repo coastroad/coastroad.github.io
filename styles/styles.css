@@ -58,6 +58,7 @@ h3{
 
 /* h4 styling */
 h4{
+    text-align: center;
     color:black;
     font-size: 0.5vw;
 }
