@@ -17,6 +17,11 @@
     color:white;
 }
 
+/*Grey Heading text */
+#gray{
+    color: #bfb4b4;
+}
+
 /* changes image opacity */
 #imageOpacity {
     opacity: 0.7;
