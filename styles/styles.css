@@ -253,5 +253,6 @@ img {
     color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: red;
+    max-width: fit-content;
     
 }
