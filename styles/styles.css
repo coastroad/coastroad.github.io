@@ -176,6 +176,7 @@ img {
     max-width: 80vw;
     background-color:aliceblue;
     text-decoration: none;
+
 }
 
 /* Style the topnav links */
@@ -185,6 +186,7 @@ img {
     color: black;
     text-align: center;
     padding: 14px 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
@@ -193,6 +195,7 @@ img {
     text-align: center;
     text-decoration: none;
     color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 /*white hyperlinks */
 .whiteLinks{
