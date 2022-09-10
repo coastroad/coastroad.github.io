@@ -246,7 +246,12 @@ img {
 }
 /*style bottomnav */
 .bottomnav{
+    
     margin-left:auto;
     margin-right:auto;
+    color:white;
+    padding: 14px 16px;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     
 }
