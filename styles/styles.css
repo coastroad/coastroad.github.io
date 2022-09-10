@@ -60,14 +60,14 @@ h2{
 /*h3 styling */
 h3{
     color:white;
-    font-size: 1vw;
+    font-size: 1.5vw;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 /* h4 styling */
 h4{
     text-align: center;
     color:black;
-    font-size: 0.5vw;
+    font-size: 1vw;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .shadow {
