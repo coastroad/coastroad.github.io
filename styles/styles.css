@@ -246,12 +246,12 @@ img {
 }
 /*style bottomnav */
 .bottomnav{
+    float:left;
     margin:auto;
     background-color: red;
     width: 33.333vw;  
 }
 .bottomnav a{
-    float:left;
     color:white;
     padding: 14px 16px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
