@@ -242,6 +242,7 @@ img {
     overflow:hidden;
     margin:auto;
     max-width: 100vw;
+    max-height: 100vh;
     height: auto;
     text-decoration: none;
     background-color:black;
