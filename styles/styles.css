@@ -188,6 +188,15 @@ img {
     
 }
 
+/*white hyperlinks */
+.whiteLinks{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-size: 2vw;
+    background-color:unset;
+}
+
 .content{ 
     margin: auto;
     max-width: 110vw;
