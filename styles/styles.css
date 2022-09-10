@@ -153,6 +153,7 @@ body {
 /* sets banner position */
 .banner {
     position:relative;
+    width: 100%;
     opacity: 0.7; 
 }
 /* sets main sizes */
