@@ -263,9 +263,20 @@ img {
 }
 /*style bottomnav */
 .bottomnav{
-    float:left;
-    width: 20%;
+    overflow: hidden;
     margin:auto;
+    max-width: 80vw;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.bottomnav a{
+    float: left;
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /*white hyperlinks */
