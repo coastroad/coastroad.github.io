@@ -200,6 +200,7 @@ img {
 /* hyperlinks */
 .links{
     float:left;
+    margin:auto;
     text-align: center;
     text-decoration: none;
     color:black;
