@@ -1,113 +1,60 @@
 <!DOCTYPE html>
 
 <html>
-
   <head>
-
     <meta charset="utf-8">
-
     <title>Menu - Haukai Restaurant</title>
-
     <link rel="stylesheet" href="styles/styles.css"> <!--This is where you add the link to the css style sheet-->
-    
-
-    
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-J4M8F4RGKG"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
     gtag('config', 'G-J4M8F4RGKG');
     </script>
-
-
   </head>
-
   <nav class="topnav">
-
-    <a href="index.html" class="topnav">Home</a></li>
-
-    <a href="reservations.html" class="topnav">Reservations</a></li>
-
-    <a href="menu.html" class="topnav">Menu</a></li>
-
-    <a href="contact.html" class="topnav">Contact</a></li>
-
-    <a href="hours.html" class="topnav">Hours</a></li>
-
+    <a href="index.html" class="topnav">HOME</a></li>
+    <a href="reservations.html" class="topnav">RESERVATIONS</a></li>
+    <a href="menu.html" class="topnav">MENU</a></li>
+    <a href="contact.html" class="topnav">CONTACT</a></li>
+    <a href="hours.html" class="topnav">HOURS</a></li>
   </nav>
-
   <body>
-
     <!-- Here is our main header that is used across all the pages of our website making changes to see if it updates. Maybe it didnt work.-->
-
     <header class="header">
-
-      
       <div class="banner">
         <img src="images/menuBanner.jpg" alt="Banner - Matahi Restaurant" width="1124" height="242">
         <div class="center">
           <h1>MENU</h1>
         </div>
       </div>
-      
-
     </header>
-
-  
-
     <!-- Here is our page's main content -->
-
     <main class="main">
-
       <div class="row">
-
         <div class="column">
-
           <div class="gallery">
-            
             <img src="images/lamb.jpg" alt="Lamb Chop coated in kawakawa crumb" width="500" height="500">
-          
           </div>
-
           <div class="gallery">
-
             <img src="images/mussels.jpg" alt="Steamed mussels" width="500" height="500">
-          
           </div>
-
           <div class="gallery">
-
             <img src="images/pork.jpg" alt="Pork belly with roasted kumara and crispy noodles" width="500" height="500">
-
           </div>
-
           <div class="gallery">
-
             <img src="images/fish.jpg" alt="Fish of the Day" width="500" height="500">
-
           </div>
-
           <div class="gallery">
-
             <img src="images/bread.jpg" alt="Rewena - Traditional Maori bread" width="500" height="500">
-
           </div>
-
           <div class="gallery">
-
             <img src="images/pav.jpg" alt="Mini Pavlova with kawakawa and lemon icecream" width="500" height="500">
-
           </div>
-
-          
-
         </div>
-
         <div class="column">
-
           <h3 id="gray">KAI</h3>
           <br>
           <p id="para1">Haukai Restaurant specialises in Māori kai and is based in the Bay of Islands. It was started by a couple
@@ -121,9 +68,6 @@
           </p>
           <p id="para1">Regardless of taste, there is something on offer for everyone.</p>
           <br>
-          
-          
-
           <h3 id="gray">APPETIZERS</h1>
           <br>
           <h4>REWENA BREAD 10</h2>
@@ -164,7 +108,6 @@
           <p id="para1">Toffee, fresh bananas and fresh cream.</p>
           <p id="para1"><a href="Menu.pdf" class="links">Download our full menu for a list of beverages </a></p>
         </div>
-
         <div class="column">
           <div class="gallery">
             <img src="images/scallops.jpg" alt="Grilled scallops" width="500" height="500">
@@ -187,15 +130,20 @@
         </div>
       </div>
     </main>
-
     <!-- And here is our main footer that is used across all the pages of our website -->
-
     <footer class="footer">
-
-      <p id="white">©Copyright 2022 by The Haukai Restaurant. All rights reversed.</p>
-
+      <div class="row">
+        <div class="bottomColumn"></div>
+        <div class="bottomColumn">
+          <div class="bottomnav"><a href="index.html" class="footerWhiteLinks">HOME</a></div>
+          <div class="bottomnav"><a href="reservations.html" class="footerWhiteLinks">RESERVATIONS</a></div>
+          <div class="bottomnav"><a href="menu.html" class="footerWhiteLinks">MENU</a></div>
+          <div class="bottomnav"><a href="contact.html" class="footerWhiteLinks">CONTACT</a></div>
+          <div class="bottomnav"><a href="hours.html" class="footerWhiteLinks">HOURS</a></div>
+          <br>
+          <p id="white">©Copyright 2022 by The Haukai Restaurant. All rights reversed.</p>
+        </div>
+        <div class="bottomColumn"></div>
     </footer>
-
   </body>
-
 </html>
