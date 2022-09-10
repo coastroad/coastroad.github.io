@@ -238,10 +238,14 @@ img {
 }
 /* Style the footer links */
 .footer a{
-    float:none;
+    float:left;
     display: block;
     text-align:center;
     padding: 14px 16px;
     color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/*style bottomnav */
+.bottomnav{
+    margin-left: 50vw;
 }
