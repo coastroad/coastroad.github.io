@@ -244,6 +244,13 @@ img {
     color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.bottomColumn{
+    float: left;
+    width: 33.333%;
+    padding: 0.5%;
+    margin-top: 1%;
+}
 /*style bottomnav */
 .bottomnav{
     float:left;
