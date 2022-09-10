@@ -237,7 +237,6 @@ img {
 }
 /* Style the footer links */
 .footer a{
-    left:50%;
     float:left;
     display: block;
     text-align:center;
@@ -248,11 +247,15 @@ img {
 /*style bottomnav */
 .bottomnav{
     margin:auto;
+    padding: 14px 16px;
+    background-color: red;
+    max-width:33.33%;  
+}
+.bottomnav a{
+    left: 50%;
+    float:left;
     color:white;
     padding: 14px 16px;
-    color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: red;
-    max-width:33.33%;
-    
+
 }
