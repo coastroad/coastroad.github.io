@@ -246,7 +246,7 @@ img {
 }
 /*style bottomnav */
 .bottomnav{
-    
+    float:left;
     margin:auto;
     color:white;
     padding: 14px 16px;
