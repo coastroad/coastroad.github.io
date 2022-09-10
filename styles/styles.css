@@ -248,7 +248,7 @@ img {
 .bottomnav{
     margin:auto;
     background-color: red;
-    max-width:33.33%;  
+    width: 33.333vw;  
 }
 .bottomnav a{
     left: 50%;
