@@ -169,7 +169,7 @@ body {
 /* sets main sizes */
 .main {
     max-width: 80vw;
-    height: auto;
+    height: 70vh;
     margin:auto;
 }
 /*sets images width and height */
