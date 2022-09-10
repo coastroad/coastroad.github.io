@@ -253,11 +253,7 @@ img {
 /*style bottomnav */
 .bottomnav{
     float:left;
-    background-color: red;
     width: 20%;
-    border-color: black;
-    border-radius: 1px; 
-    border-style: solid;
     margin:auto;
 }
 
