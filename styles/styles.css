@@ -180,7 +180,7 @@ img {
 .topnav {
     overflow: hidden;
     margin:auto;
-    max-width: 28vw;
+    max-width: 30vw;
     background-color:aliceblue;
     text-decoration: none;
 
@@ -265,7 +265,7 @@ img {
 .bottomnav{
     overflow: hidden;
     margin:auto;
-    max-width: 28vw;
+    max-width: 30vw;
     text-decoration: none;
 }
 
