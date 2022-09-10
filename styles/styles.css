@@ -191,7 +191,6 @@ img {
     float: left;
     display: block;
     color: black;
-    text-align: center;
     padding: 14px 16px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -199,8 +198,6 @@ img {
 
 /* hyperlinks */
 .links{
-    float:left;
-    margin:auto;
     text-align: center;
     text-decoration: none;
     color:black;
