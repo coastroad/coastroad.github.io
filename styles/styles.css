@@ -256,15 +256,13 @@ img {
 .bottomnav{
     float:left;
     background-color: red;
-    width: 20%; 
-    padding: 0.5%;
-    text-align: center; 
+    width: 20%;  
 }
 .bottomnav a{
     color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
-    text-align:center;
+    text-align: center;
 
 
 }
