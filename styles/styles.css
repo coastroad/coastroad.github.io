@@ -35,10 +35,11 @@ a:hover, li:hover {
 
     background-color: #bfb4b4;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 2vw;
+    font-size: 1vw;
 }
 a {
     transition: background-color .5s;
+    font-size: 1vw;
 }
 /* p styling */
 p{
