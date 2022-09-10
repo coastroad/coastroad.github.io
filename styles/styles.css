@@ -265,6 +265,7 @@ img {
 .bottomnav{
     overflow: hidden;
     margin-left: 33%;
+    margin-right: 33%;
     text-decoration: none;
 }
 
