@@ -280,12 +280,11 @@ img {
 .footerWhiteLinks{
     float:left;
     margin:auto;
-
     text-decoration: none;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 1vw; 
-    padding: 14px 16px; 
+ 
 }
 .footerWhiteLinks:hover{
     background-color: transparent;
