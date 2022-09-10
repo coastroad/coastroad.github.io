@@ -173,7 +173,15 @@ img {
     margin:auto;
     max-width: 80vw;
     background-color:aliceblue;
+    text-decoration: none;
 
+}
+
+/* hyperlinks */
+.links{
+    text-align: center;
+    text-decoration: none;
+    
 }
 
 /* Style the topnav links */
