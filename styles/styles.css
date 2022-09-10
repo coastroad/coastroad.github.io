@@ -259,11 +259,11 @@ img {
     border-color: black;
     border-radius: 1px; 
     border-style: solid;
+    margin:auto;
 }
 
 /*white hyperlinks */
 .footerWhiteLinks{
-    margin:auto;
     text-align: center;
     text-decoration: none;
     color: white;
