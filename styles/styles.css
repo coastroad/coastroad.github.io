@@ -211,7 +211,6 @@ img {
     max-width: 110vw;
     padding-top: 2%;
     height: auto;
-    background-color: crimson;
 }
 /* Create three equal columns that float next to each other */
 .column {
@@ -247,9 +246,5 @@ img {
 }
 /*style bottomnav */
 .bottomnav{
-    width:33.333%;
-    float:left;
-    margin:0px auto;
-    border-radius: 2px;
-    border-color: blue;
+    margin-left:auto;
 }
