@@ -253,6 +253,7 @@ img {
 }
 .bottomnav a{
     color:white;
+    text-align:center;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
 
