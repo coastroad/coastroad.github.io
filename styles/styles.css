@@ -187,13 +187,7 @@ img {
     padding: 14px 16px;
 }
 
-/* Style the bottomnav links */
-.bottomnav a{
-    float: left;
-    display: block;
-    text-align:center;
-    padding: 14px 16px;
-}
+
 /* hyperlinks */
 .links{
     text-align: center;
@@ -229,8 +223,17 @@ img {
     display: table;
     clear: both;
 }
+/* Stye the footer */
 .footer {
     background-color:black;
     text-align: center;
     padding: 10px;
+}
+/* Style the footer links */
+.footer a{
+    float: left;
+    display: block;
+    text-align:center;
+    padding: 14px 16px;
+    color:white;
 }
