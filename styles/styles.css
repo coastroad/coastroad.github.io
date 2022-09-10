@@ -29,7 +29,7 @@
 }
 
 /*link hover styling */
-li:hover {
+a:hover, li:hover {
 
     background-color: #bfb4b4;
 }
