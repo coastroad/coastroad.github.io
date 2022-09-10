@@ -237,6 +237,7 @@ img {
 }
 /* Style the footer links */
 .footer a{
+    left:50%;
     float:left;
     display: block;
     text-align:center;
