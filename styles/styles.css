@@ -246,13 +246,12 @@ img {
 }
 /*style bottomnav */
 .bottomnav{
-    float:left;
     margin:auto;
     color:white;
     padding: 14px 16px;
     color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: red;
-    max-width: fit-content;
+    max-width:33.33%;
     
 }
