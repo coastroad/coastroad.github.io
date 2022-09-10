@@ -260,15 +260,18 @@ img {
     border-radius: 1px; 
     border-style: solid;
     text-align: center;
-    margin:auto; 
-    
 }
 .bottomnav a{
     color:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
     text-align: center;
-    margin:auto;
-
-
+}
+/*white hyperlinks */
+.footerWhiteLinks{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color:transparent;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;     
 }
