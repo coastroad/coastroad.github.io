@@ -179,8 +179,8 @@ img {
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
-    margin:auto;
-    max-width: 33vw;
+    margin-left: 33%;
+    margin-right: 33%;
     background-color:aliceblue;
     text-decoration: none;
 
