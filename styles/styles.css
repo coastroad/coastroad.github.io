@@ -258,7 +258,8 @@ img {
     background-color: red;
     width: 20%;
     border-color: black;
-    border-radius: 1px;  
+    border-radius: 1px; 
+    border-style: solid; 
 }
 .bottomnav a{
     color:white;
