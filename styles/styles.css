@@ -247,7 +247,6 @@ img {
 /*style bottomnav */
 .bottomnav{
     float:left;
-    margin:auto;
     background-color: red;
     width: 33.333vw;  
 }
