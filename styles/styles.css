@@ -188,14 +188,12 @@ img {
     float: left;
     display: block;
     color: black;
-    padding: 14px 16px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
 /* hyperlinks */
 .links{
-
     text-decoration: none;
     color:black;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
