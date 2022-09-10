@@ -177,12 +177,21 @@ img {
     background-color:aliceblue;
     text-decoration: none;
 }
+
 /* Style the topnav links */
 .topnav a {
     float: left;
     display: block;
     color: black;
     text-align: center;
+    padding: 14px 16px;
+}
+
+/* Style the bottomnav links */
+.bottomnav a{
+    float: left;
+    display: block;
+    text-align:center;
     padding: 14px 16px;
 }
 /* hyperlinks */
