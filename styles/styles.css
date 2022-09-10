@@ -256,6 +256,9 @@ img {
     width: 20%;
     margin:auto;
     padding-bottom: 1%;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 1px;
 }
 
 /*white hyperlinks */
