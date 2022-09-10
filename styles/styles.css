@@ -194,7 +194,8 @@ img {
     text-decoration: none;
     color: white;
     font-size: 2vw;
-    background-color:none;
+    background-color:transparent;
+    
     
 }
 
