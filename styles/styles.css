@@ -115,6 +115,14 @@ body {
 
 }
 
+/* sets the size of larger images on home page */
+.screenshot {
+    float: left;
+    width: 100%;
+    height:auto;
+    margin:0.5%;
+}
+
 /* Center text on banner image */
 .center {
     position:absolute;
