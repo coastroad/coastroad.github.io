@@ -265,14 +265,13 @@ img {
 .bottomnav{
     overflow: hidden;
     margin:auto;
-    max-width: 80vw;
+    max-width: 60vw;
     text-decoration: none;
 }
 
 .bottomnav a{
     overflow: hidden;
     margin:auto;
-    max-width: 60vw;
     color:white;
     text-decoration: none;
 }
