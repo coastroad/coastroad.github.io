@@ -278,7 +278,6 @@ img {
 
 /*white hyperlinks */
 .footerWhiteLinks{
-    float:left;
     text-align: center;
     text-decoration: none;
     color: white;
