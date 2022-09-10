@@ -45,7 +45,8 @@ a {
 /* h1 styling */
 h1{
     color:white;
-    font-size: 3vw;   
+    font-size: 3vw;
+    font-family: custom;   
 }
 
 /* h2 styling */
