@@ -246,5 +246,8 @@ img {
 }
 /*style bottomnav */
 .bottomnav{
-    margin-left:auto;
+    float: left;
+    width: 33.333%;
+    padding: 0.5%;
+    margin-top: 0.5%;
 }
