@@ -1,5 +1,8 @@
 /* Universal box sizing */
-
+@font-face {
+    font-family: custom;
+    src: url(/fonts/opensans_semibold_macroman.ttf);
+  }
 
 * {
 
