@@ -178,6 +178,7 @@ img {
 }
 /* Style the top navigation bar */
 .topnav {
+    padding: 14px 16px;
     overflow: hidden;
     text-decoration: none;
 }
