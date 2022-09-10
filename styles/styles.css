@@ -151,6 +151,7 @@ body {
     height: auto;
     margin:auto;
     background-color: #bfb8bd;
+    opacity: 0.3;
 }
 
 /*sets images width and height */
