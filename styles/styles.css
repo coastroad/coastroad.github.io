@@ -146,6 +146,7 @@ body {
     transform: translate(-50%, -50%);
 }
 
+/* Styles reservation image */
 .reservation {
     margin: 0.5%;
     position:relative;
