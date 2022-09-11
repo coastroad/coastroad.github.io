@@ -174,7 +174,7 @@ img {
 .logo{
     position:absolute;
     left:50%;
-    top: 50%;
+    top: 0%;
     max-width: 10vw;
     height:auto;
     transform: translate(-50%, -50%);
