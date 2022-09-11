@@ -170,6 +170,13 @@ img {
     height: auto;
     border-radius: 8px;;
 }
+/* style logo */
+.logo{
+    position:absolute;
+    left:50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
 /* Style the header */
 .header {
     max-width: 100%;
