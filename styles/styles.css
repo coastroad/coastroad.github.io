@@ -191,6 +191,7 @@ img {
     padding: 14px 16px;
     overflow: hidden;
     text-decoration: none;
+    min-height: 10vh;
 }
 
 /* Style the topnav links */
