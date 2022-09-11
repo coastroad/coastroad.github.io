@@ -173,9 +173,9 @@ img {
 /* style logo */
 .logo{
     position:absolute;
-    left:50%;
-    top: 0%;
-    max-width: 10vw;
+    left:20%;
+    top: 50%;
+    max-width: 15vw;
     height:auto;
     transform: translate(-50%, -50%);
     
